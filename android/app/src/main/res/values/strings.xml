@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AniVision</string>
+    <string name="camera_permission_rationale">AniVision needs access to your camera to take photos of anime characters for identification.</string>
+    <string name="storage_permission_rationale">AniVision needs access to your storage to save and load images.</string>
+    <string name="location_permission_rationale">AniVision needs access to your location for location-based features.</string>
+</resources>

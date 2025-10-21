@@ -1,0 +1,32 @@
+the app is called ani vision (animal vision because it identifies species with scientific names)
+Make an app that uses openai API (defined in app with API URL and API KEY) to scan images and tell the user the scientific name of the species in the image
+Make a plan for handling over long AI output
+plan out these and more features before creating an app
+use sub agents to complete the tasks and allow them to call in outside help
+you may use and install any MCP server you need to complete this task, have your sub agents set it up for you and move forward weather they are able to do it or not
+when the user opens the app they will see a welcome screen with a popout drwaer with settings
+Images will be stored on device and will be named as the main species in the picture
+once they open the picture other details will be there
+including a 1 sentence ai summary 
+a button to scan the picture again
+create folder
+
+features
+welcome screen with 
+    - popout drwaer
+    - settings
+Images will be stored on device 
+    - Image lable with scientific names of the main species in the picture
+    -  open the picture for other details 
+        >including a 1 sentence ai summary 
+    - scan the picture again button
+    - create folder button  > will contain automatically grouped pictures as defined by the ai
+other 
+    -
+    - >?
+Good luck and dont report back until it is done!
+
+I've started you off with a basic git commit
+
+
+
